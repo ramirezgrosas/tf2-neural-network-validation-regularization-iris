@@ -1,7 +1,7 @@
 [project]
 name = "tf2-neural-network-validation-regularization-iris"
 version = "0.1.0"
-description = "Add your description here"
+description = "Validation and regularisation of a TensorFlow 2 / Keras neural network on the Iris dataset: dropout, L2 weight decay, batch normalisation and training callbacks."
 readme = "README.md"
 authors = [
     { name = "Diego Ramirez Rosas", email = "ramirezgrosas@gmail.com" }
